@@ -5,6 +5,8 @@ classdef HexSurface1 < matlab.mixin.Copyable
     %   H               Hex1 mesh object
     %   phi             surface function m-by-1
     %   level           Iso surface level
+    % 
+    %   Created by Mirza Cenanovic 2015-04-23
     
     properties
         Surface
